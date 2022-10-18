@@ -1,2 +1,5 @@
-# github_4_Tests
-Este github es creado para realizar pruebas de repositorio
+# Repositorio de GitHub para trabajar control de versiones
+  
+Este repositorio tiene el fin de practica grupal.
+
+
